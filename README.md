@@ -3,5 +3,5 @@ You can watch the demo video here: [Demo Video Link](https://drive.google.com/fi
 
 ## 📄 Project Documentation
 You can view the documentation here:  
-[👉 Download Documentation PDF](docs/Documentation.pdf)
+[👉 Download Documentation PDF](Documentation.pdf)
 
