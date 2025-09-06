@@ -3,6 +3,6 @@ You can watch the demo video here: [Demo Video Link](https://drive.google.com/fi
 
 ## 📄 Project Documentation
 You can view the documentation here:  
-[👉 Download Documentation PDF](https://drive.google.com/file/d/1vAm-DXBrx4AFZhs59svu6fQn4uYhkNvq/view?usp=drive_link)
+[👉 Documentation PDF](https://drive.google.com/file/d/1vAm-DXBrx4AFZhs59svu6fQn4uYhkNvq/view?usp=drive_link)
 
 
