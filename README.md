@@ -3,5 +3,6 @@ You can watch the demo video here: [Demo Video Link](https://drive.google.com/fi
 
 ## 📄 Project Documentation
 You can view the documentation here:  
-[👉 Download Documentation PDF](Documentation.pdf)
+[👉 Download Documentation PDF](https://github.com/Harini2723/Lease-Management/raw/main/Documentation.pdf)
+
 
